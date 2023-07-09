@@ -1,0 +1,8 @@
+Ticket : project.txt -> 10 lines
+commit your changes in local repo
+
+vi project.txt 
+git status
+git add .
+git status
+git commit -m "Ticket - messages"
