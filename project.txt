@@ -1,0 +1,12 @@
+1. How to create repository?
+
+2. How to create branch ?
+
+3. How to tag a commit ?
+
+4. How to create/update file and record the changes via commit id ?
+
+5. How to check commitId?
+
+6. How to check details info about commitID?
+============================================
