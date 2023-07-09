@@ -1,7 +1,7 @@
 Advanced commands:
 =================================================================================================
 git clone: Cloning is process of downloading the repository.
-1. How to create repository?
+i Adding new changes1. How to create repository?
 
 2. How to create branch ?
 
